@@ -11,7 +11,7 @@
        }
          /* header */
        header {
-           border: rgb(97, 240, 104) 5px solid;
+           border: rgb(97, 240, 104) 2px solid;
            background-color: #111;
            color: white;
            display: flex;
@@ -115,7 +115,7 @@
        }
        .skill{
         height: 50px;
-        background: rgb(163, 239, 119);
+        background: rgb(139, 137, 119);
         padding: 15px 30px;
         border-radius: 5%;
         box-shadow: 0 2px 10px rgba(0, 0, 0, 0);
@@ -131,7 +131,7 @@
        }
        .project-cards{
          height: 150px;
-         background: rgb(163, 239, 119);
+         background: rgb(139, 137, 119);
          padding: 15px 30px;
          border-radius: 3%;
          box-shadow: 0 2px 10px rgba(0, 0, 0, 0);
@@ -142,13 +142,13 @@
             max-width: 600px;
             display: flex;
             flex-direction: column;
-            background: rgb(183, 122, 245);
+            background: rgb(219, 219, 219);
             gap: 15px;
         }
         form input,
         form textarea{
             color: #000000;
-            background-color: rgb(163, 239, 119);
+            background-color: rgb(219, 219, 219);
             padding: 12px;
             border: 2px rgb(0, 0, 0) solid;
             border-radius: 5px
